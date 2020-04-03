@@ -1,0 +1,3 @@
+rootProject.name = 'hinodi_rn_test'
+
+include ':app'
